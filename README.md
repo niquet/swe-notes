@@ -1,5 +1,7 @@
-# Personal Notes on "The Software Engineer's Guidebook"
-This repository is a collection of my personal notes from reading "The Software Engineer's Guidebook" by Gergely Orosz. The notes are not exhaustive and represent only the parts relevant to me, which I have distilled based on my past experiences and future goals as a software engineer. I highly recommend reading this book, whether you're just starting out or are a seasoned engineer. Visit [https://www.engguidebook.com/](https://www.engguidebook.com/) for more information on the book.
+# Notes on Software Engineering Inspired by "The Software Engineer's Guidebook"
+This repository is a collection of my personal notes on various topics in the field of software engineering, mainly based on the topics covered in "The Software Engineer's Guidebook" by Gergely Orosz.
+
+The notes are not exhaustive and represent only the depth relevant to me, which I have distilled based on my past experiences and future goals as a software engineer. I highly recommend reading this book, whether you're just starting out or a seasoned engineer. Visit [https://www.engguidebook.com/](https://www.engguidebook.com/) for more information about the book.
 
 ## Getting Things Done
 - Get things done, reliably :left_right_arrow: Good at breaking down work + Realistic in your estimates + Autonomous in unblocking yourself + Delivering quality work
