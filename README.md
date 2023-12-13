@@ -1,17 +1,34 @@
-# Notes on Software Engineering Inspired by "The Software Engineer's Guidebook"
-This repository is a collection of my personal notes on various topics in the field of software engineering, mainly based on the topics covered in "The Software Engineer's Guidebook" by Gergely Orosz.
+# Notes on Software Engineering
+This repository contains my personal notes on various software engineering related topics. The notes are based on 'The Software Engineer's Guidebook' by Gergely Orosz, with additional practical notes on tools, languages, computer science concepts, and other topics.
 
-The notes are not exhaustive and represent only the depth relevant to me, which I have distilled based on my past experiences and future goals as a software engineer. I highly recommend reading this book, whether you're just starting out or a seasoned engineer. Visit [https://www.engguidebook.com/](https://www.engguidebook.com/) for more information about the book.
+I recommend reading Gergely Orosz's book, whether you're just starting out or a seasoned engineer. You can find the book at [https://www.engguidebook.com/](https://www.engguidebook.com/). I also recommend diving deep into software engineering concepts or topics that interest you as quickly as possible.
 
-## Getting Things Done
+## Getting Started
+I have divided my notes into four main categories:
+- Career skills - everything you need to steer your career in the right direction,
+- Soft skills - everything apart from the development tools that you should know,
+- Hard skills - everything around the development tools that will help you become a better software engineer,
+- and computer science and software engineering concepts - theory that you can brush up on.
+
+### Usage
+
+
+### Contribute
+
+
+## Career Skills
+
+## Soft Skills
+
+### Getting Things Done
 - Get things done, reliably :left_right_arrow: Good at breaking down work + Realistic in your estimates + Autonomous in unblocking yourself + Delivering quality work
 
-### Focus on The #1 Priority
+#### Focus on The #1 Priority
 - **Focus on the most important piece of work** :arrow_right: Identify the most important task (your #1 priority) on your list (i.e., _If you could only do one thing this week, what would it be?_)
 - **Always get your #1 priority done** :arrow_right: Always deliver your most important task on time, which may require you to turn down other tasks, skip meetings, and put other things on hold
 - **Learn to say "no"** :arrow_right: If you are at risk of not completing the #1 priority, decline incoming requests to protect your time (e.g., by saying "_Yes, I'd love to help, BUT ..._" or "_Thank you for thinking of me, BUT..._")
 
-### Unblock Yourself
+#### Unblock Yourself
 - **Unblock yourself** :arrow_right: When you run into blockers like bugs, missing information, or waiting for code reviews, there are two parts to unblocking yourself: knowing when you are blocked and trying different approaches to unblock yourself
 - Rule of thumb: If you cannot make meaningful progress for more than 30 minutes to an hour, admit that you are blocked
 - Different approaches for unblocking yourself:
@@ -36,8 +53,8 @@ The notes are not exhaustive and represent only the depth relevant to me, which 
   2. **Ask:** Ask why nothing is happening, chances are they have other priorities on top of their mind
   3. **Warn:** 
 
-### Break Down the Work
-### Estimate the Duration of Work
-### Seek Out Mentors
-### Keep Your "Goodwill Balance" Topped Up
-### Take the Initiative
+#### Break Down the Work
+#### Estimate the Duration of Work
+#### Seek Out Mentors
+#### Keep Your "Goodwill Balance" Topped Up
+#### Take the Initiative
